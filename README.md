@@ -12,7 +12,7 @@ Choose a voice, paste text, and generate speech locally — no cloud API, no sig
 
 ## Demo
 
-![KokoroTTS Demo](demo/demo.mp4)
+<video src="https://raw.githubusercontent.com/Dennesssy/KokoroTTS/main/demo/demo.mp4" controls preload="metadata" style="max-width: 100%; border-radius: 12px;"></video>
 
 ---
 
