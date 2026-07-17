@@ -12,7 +12,7 @@ Choose a voice, paste text, and generate speech locally — no cloud API, no sig
 
 ## Demo
 
-<https://github.com/Dennesssy/KokoroTTS/releases/download/v1.0.0/demo.mp4>
+![KokoroTTS Demo](demo/demo.gif)
 
 *8-second screen recording: voice picker, speed control, chunked generation, playback, and save.*
 
